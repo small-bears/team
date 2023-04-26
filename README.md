@@ -13,7 +13,10 @@
 ## 二、 视频演示
 
 <p style="text-align: center;"><strong><span class="ne-text">建议点击这个</span><a style="color: #ff0000;" href="https://www.bilibili.com/video/BV1Sk4y1a7Mc/?spm_id_from=333.999.0.0&vd_source=b5789de9f485ad6d0cfaeca1ad4b230c">“链接”</a>查看高清视频</strong></p>
+
+
 ## 三、 运行环境
+
 开发语言：Java
 
 开发工具：IDEA，Eclipse,Myeclipse都可以。推荐IDEA
